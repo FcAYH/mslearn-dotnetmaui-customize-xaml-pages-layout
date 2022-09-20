@@ -16,7 +16,7 @@
 
 		<!-- App Identifier -->
 		<ApplicationId>com.companyname.alignment</ApplicationId>
-		<ApplicationIdGuid>B4B241BA-CD04-4CE4-83ED-FD99159F72A0</ApplicationIdGuid>
+		<ApplicationIdGuid>MSLearn.MAUI.Layout.Alignment</ApplicationIdGuid>
 
 		<!-- Versions -->
 		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
